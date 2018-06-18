@@ -124,18 +124,18 @@
   "buffers": [
     {
       "byteLength": 171672,
-      "uri": "scene.bin"
+      "uri": "tv.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/material_0_metallicRoughness.png"
+      "uri": "textures/metallicRoughness.png"
     },
     {
-      "uri": "textures/material_0_normal.png"
+      "uri": "textures/normal.png"
     },
     {
-      "uri": "textures/material_0_baseColor.png"
+      "uri": "textures/baseColor.png"
     }
   ],
   "materials": [
